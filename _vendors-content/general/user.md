@@ -1,4 +1,4 @@
----
+---amasawu
 manufacturer:
     - general
 ---
